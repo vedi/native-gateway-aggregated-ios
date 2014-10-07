@@ -1,0 +1,9 @@
+[submodule "flurry-bunch"]
+	path = flurry-bunch
+	url = https://github.com/vedi/flurry-bunch-ios.git
+[submodule "native-gateway-common"]
+	path = native-gateway-common
+	url = https://github.com/vedi/native-gateway-common-ios.git
+[submodule "native-gateway-unity3d"]
+	path = native-gateway-unity3d
+	url = https://github.com/vedi/native-gateway-unity3d-ios.git
