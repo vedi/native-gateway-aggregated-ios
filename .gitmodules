@@ -7,3 +7,6 @@
 [submodule "native-gateway-unity3d"]
 	path = native-gateway-unity3d
 	url = https://github.com/vedi/native-gateway-unity3d-ios.git
+[submodule "share-bunch"]
+	path = share-bunch
+	url = https://github.com/vedi/share-bunch-ios.git
