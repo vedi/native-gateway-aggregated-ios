@@ -10,3 +10,6 @@
 [submodule "share-bunch"]
 	path = share-bunch
 	url = https://github.com/vedi/share-bunch-ios.git
+[submodule "native-gateway-cocos2dx"]
+	path = native-gateway-cocos2dx
+	url = https://github.com/vedi/native-gateway-cocos2dx-ios.git
