@@ -13,3 +13,6 @@
 [submodule "native-gateway-cocos2dx"]
 	path = native-gateway-cocos2dx
 	url = https://github.com/vedi/native-gateway-cocos2dx-ios.git
+[submodule "admob-bunch"]
+	path = admob-bunch
+	url = git@github.com:smallkot/admob-bunch-ios.git
